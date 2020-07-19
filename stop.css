@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+	background-color: red;
+}
+h1{
+	text-align: center;
+	font-size: 40px;
+	font-weight: 700;
+	color:black;
+	text-shadow: 4px 4px 5px darkred;
+	margin-top:40px;
+	margin-bottom: 40px;
+	letter-spacing: 1.2;
+}
+form{
+	text-align: center;
+}
+.stopwatch{
+
+	background-color: red;
+	display: inline-block;
+	text-align: center;
+	margin-top:30px;
+	margin-bottom: 30px;
+		text-shadow: 4px 4px 5px darkred;
+}
+.stopwatch span{
+	color: black;
+	background-color: red;
+	font-size: 30px;
+	font-weight: 700;
+	
+	display: inline;
+}
+.stopwatch h2{
+	color: black;
+	display: inline;
+	font-weight: 700;
+	font-size: 30px;
+}
+input{
+	color: black;
+	background-color: red;
+	outline: none;
+	border:none;
+	text-align: center;
+	font-weight: 600;
+	font-size: 30px;
+		text-shadow: 4px 4px 5px darkred;
+
+}
+input:hover{
+	color: red;
+	background-color: black;
+	text-shadow: 4px 4px 5px darkred;
+}
